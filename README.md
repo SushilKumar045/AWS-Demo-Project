@@ -2,7 +2,7 @@
 
 1. ###### Clone repository from github.
 
-    `git clone  https://github.com/test.git`
+    `git clone  https://github.com/SushilKumar045/AWS-Demo-Project.git`
     
 2. ###### Create virtualenv
 

@@ -31,7 +31,3 @@
 6. ###### Deploy service
 
     `sls deploy -v --stage {stage}`
-    
-    
-    
-### **Enjoy!**
